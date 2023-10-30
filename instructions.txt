@@ -1,0 +1,98 @@
+Ombinay
+
+isDone:
+
+delete by user!!!!!!!! by id shop done))
+roServer ---- > change items.js /// "search/:id" done))
+add filter to "ny etanao" done))
+upload liked/favoris from user !!!!! done)))
+-add button(touchableOpacity) to icon like for add/remove liked count
+_rewrite signUp with animatable/ref
+_statistique a faire!!!!
+-add promotions (finished)
+_switch a configurer
+_synchroniser etana et promotion
+-rewrite auth.js
+_add info
+_add create type
+-config item.js (reactjs) pour les promos
+-add type : refraiche needed
+-removeType
+-problem orientation flatlist/scrollview "etanao"
+-try to configure ipaddress local
+-waitScreen allConnections
+_contact to do
+-button call and email
+_sendfile base64
+_react-native-fs:
+  +writeFile
+_fileSystem DownLoad config :sailorPage
+-reecrire userpage.js
+_netoyer l'app!!!
+-Singup 1-25-2020
+-approfondir Statistique
+-add promo:
+    _delete,
+    _edit,
+_IconBar => config style,load Images/
+=contact.js
+
+-item.js to complete with all functions (no function is ready)
+-try to config edit/delete 
+-try to config all States for changes reductions.js/myFlatlist.js/item.js
+-tabBar => config props
+_for mail : need for client to enter email
+_ complete formAdd.js:
+  +function new Item
+_copie all photo from server to internal phone
+-lien 86 formAdd
+-lign 103 formAdd / roserver itemshema add localUri
+-edithModal add useRef to input and fowardref
+_fileSystem DownLoad config
+-3rd button pickPhoto and takePhotos
+-config email button for connected to mail app
+-config inputObject for number
+_use filter to add nessaissary data from server
+reverseflatlist for adding data form the top
+_configur MarketPage/
+_config myFlatlist.js /addCat/component
+-re-render a faire pour les items in change Prom
+_create 2 flatlist:
+  _types
+  _items
+_add functions for axios load items form spe types
+show number of item per categories,
+change categories list in their own categories
+-filter a faire
+-edit re-render
+_profil page a faire
+_faire un component pour singup/login
+_verify forgot pass LogIn.js
+_add skip login/signup when already is AsyncSto
+_beautify app
+_edit item to reconfig
+_profilePage to continue
+_find method to add socials(follow,liked/rating)
+_profil edit UsersInfo(asyncStor/dataBase)
+_line 142 to SuccessLogIn to true
+-create new comp galery
+_add moving background
+-add anim to galery
+-add all button animations
+_add ratings/view
+-debug roserver addProfil img
+
+TODO:
+
+-find method for multiple photos
+-expo install expo-av for video
+use filter after choosing categories,
+_continue to config formAdd MyGallery.js
+_try add Photo without resizing
+_find resizing method for all images(may be configuring one by one)
+_link fb don't forget/gmail/instagram?))/vk?))
+-add message add video ))) try ))
+-config rating/view
+_add last view
+-create imgshema !!!
+-add multiple images by adding item_id to mages data
